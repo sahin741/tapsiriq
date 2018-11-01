@@ -1,0 +1,13 @@
+body{
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link{
+    font-size: 12px;
+}
+
+.nav-link:hover{
+    transition: .5s ease;
+    color:#2482ff !important;
+}
