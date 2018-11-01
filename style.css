@@ -11,3 +11,11 @@ body{
     transition: .5s ease;
     color:#2482ff !important;
 }
+.banner-content h1{
+font-size: 58px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.container {
+    background: -webkit-radial-gradient(0deg, #2380ff 0%, #52fdd9 100%)
+}
